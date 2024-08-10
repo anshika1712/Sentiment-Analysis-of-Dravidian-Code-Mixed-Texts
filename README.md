@@ -58,7 +58,7 @@ pip install -r pytorchtools.py
 git clone https://github.com/anshika1712/Sentiment-Analysis-of-Dravidian-Code-Mixed-Texts.git
 cd Sentiment-Analysis-of-Dravidian-Code-Mixed-Texts
 
-#Python Notebooks
+### Python Notebooks
 I have provided notebooks for different stages of our project. You can open and run these notebooks using Jupyter Lab or Jupyter Notebook.
 
 Preprocessing: TaskA_BasicPreprocessing.ipynb and Task_B_Preprocessingipynb.ipynb
